@@ -36,7 +36,7 @@ This section outlines potential value added of a Norwegian EOSC node
 ## Open Questions
 
 > **Discussion needed:** Should we have a steering committee or advisory board structure?  
-> See [Issue #12](link-to-issue)
+> See [Issue #1](https://github.com/sigridg/EOSC/issues/1)
 
 ---
 
