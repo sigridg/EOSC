@@ -1,0 +1,12 @@
+title: Norwegian EOSC Node Design
+description: Collaborative design of Norway's EOSC node
+theme: jekyll-theme-cayman  # or minima, slate, etc.
+
+# Navigation
+header_pages:
+  - value.md
+  - technical.md
+  - services.md
+  #- policy.md
+  #- community.md
+  #- sustainability.md
