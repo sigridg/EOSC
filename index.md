@@ -18,8 +18,7 @@ This is a collaborative space for designing Norway's node in the European Open S
 ## Contents
 
 1. [Value Propositions](value.md)
-2. [Technical Architecture](technical.md)
-3. [Services & Resources](services.md)
+3. [Services](services.md)
 4. [Community & Engagement](community.md)
 
 

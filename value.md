@@ -3,7 +3,6 @@ title: Added Value for a Norwegian EOSC node
 layout: default
 ---
 
-# Value Propositions
 
 [← Back to main document](index.md)
 
