@@ -7,11 +7,11 @@ layout: default
 
 [← Back to main document](index.md)
 
-## Service charing
+## Service sharing
 
 ### Sharing a Service That Is not Part of a Thematic Node
 
-The following diagram illustrates how a service developed by UiO (University of Oslo) that is not part of a thematic node can be shared through the Norwegian EOSC node to both national and international recipients:
+The following diagram illustrates how a service developed by a Norwegian university f.ex. UiO (University of Oslo) that is not part of a thematic node can be shared through the Norwegian EOSC node to both national and international recipients:
 
 <div class="mermaid">
 graph TD
