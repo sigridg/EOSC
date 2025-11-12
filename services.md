@@ -9,7 +9,7 @@ layout: default
 
 ## Service charing
 
-## Sharing a Service That Is not Part of a Thematic Node
+### Sharing a Service That Is not Part of a Thematic Node
 
 The following diagram illustrates how a service developed by UiO (University of Oslo) that is not part of a thematic node can be shared through the Norwegian EOSC node to both national and international recipients:
 ```mermaid
@@ -22,7 +22,7 @@ graph TD
     E --> G[Wageningen<br/>receives]
 ```
 
-## Sharing a Service That Is Part of a Thematic Node
+### Sharing a Service That Is Part of a Thematic Node
 
 When a service is already part of a thematic node (like Elixir), it can be shared directly through that node:
 ```mermaid
