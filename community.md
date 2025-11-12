@@ -57,70 +57,6 @@ Building a thriving community around the Norwegian EOSC node is essential for it
 
 ---
 
-## Engagement Strategy
-
-### Awareness & Outreach
-
-**Launch Campaign**
-- Announcement through Sikt channels
-- Presentations at major Norwegian research conferences
-- Webinar series introducing EOSC concepts
-- Social media campaign (#EOSCNorway)
-
-**Ongoing Communication**
-- Quarterly newsletter
-- Blog posts highlighting use cases
-- Success stories from early adopters
-- Updates on new services and features
-
-**Channels**
-- Sikt website and communication platforms
-- University and institute newsletters
-- Research community forums
-- Professional networks (e.g., NORA - Norwegian Open Research Archive community)
-
-### Onboarding & Training
-
-**Getting Started Resources**
-- Quick start guide for researchers
-- Video tutorials (Norwegian and English)
-- FAQs and troubleshooting
-- Use case examples by discipline
-
-**Training Programs**
-- Introductory webinars (monthly)
-- Discipline-specific workshops
-- Data management training
-- Advanced topics (APIs, automation, workflows)
-
-**Support Materials**
-- Documentation wiki
-- Template workflows
-- Best practice guides
-- Glossary of terms
-
-### Community Building
-
-**User Groups**
-- Discipline-specific communities (life sciences, humanities, social sciences, etc.)
-- Technical user groups (for advanced users)
-- Early career researcher network
-- Cross-border collaboration groups
-
-**Events**
-- Annual Norwegian EOSC Forum
-- Hackathons and code sprints
-- "Office hours" for Q&A sessions
-- Lightning talk series
-
-**Platforms**
-- Discussion forum (GitHub Discussions or similar)
-- Slack/Teams workspace for real-time chat
-- Mailing lists by topic/discipline
-- Regular community calls
-
----
-
 ## User Feedback & Co-Design
 
 ### Feedback Mechanisms
@@ -162,7 +98,7 @@ Building a thriving community around the Norwegian EOSC node is essential for it
 
 ## Champions & Advocates
 
-### Champion Program
+### Champions
 
 **Identifying Champions**
 - Researchers actively using EOSC services
@@ -189,36 +125,6 @@ Building a thriving community around the Norwegian EOSC node is essential for it
 - Regular coordination meetings
 - Shared best practices
 - Collaborative problem-solving
-
----
-
-## Inclusion & Accessibility
-
-### Ensuring Broad Participation
-
-**Language Support**
-- Key documentation in both Norwegian and English
-- Multilingual support channels
-- Translation of critical materials
-
-**Accessibility**
-- WCAG 2.1 AA compliance for web resources
-- Alternative formats for training materials
-- Captioning for video content
-- Screen reader compatibility
-
-**Equity Considerations**
-- Resources for institutions of all sizes
-- Support for underrepresented disciplines
-- Attention to regional diversity
-- Career stage inclusivity (students to senior researchers)
-
-### Removing Barriers
-
-- Free or low-cost access models
-- Simplified onboarding processes
-- Flexible training formats (recorded, live, self-paced)
-- Support in researchers' workflow tools
 
 ---
 
@@ -255,76 +161,3 @@ Building a thriving community around the Norwegian EOSC node is essential for it
 2. **For Institutions:** "Join a national infrastructure that enhances Norway's research competitiveness"
 3. **For Service Providers:** "Connect your services to a broader ecosystem and reach more users"
 4. **For Funders:** "EOSC advances open science and maximizes research investment impact"
-
-### Content Calendar
-
-**Monthly**
-- Newsletter (first Tuesday)
-- Blog post with user story or update
-- Social media highlights
-
-**Quarterly**
-- Community call / town hall
-- Training workshop series
-- Roadmap update
-
-**Annually**
-- User survey
-- Annual report
-- Major event (forum/conference)
-- Strategic review with community input
-
----
-
-## Success Indicators
-
-### Quantitative Metrics
-
-- Number of registered users
-- Active users per month
-- Number of institutions participating
-- Training participants
-- Community forum activity
-- Service usage statistics
-
-### Qualitative Indicators
-
-- User satisfaction scores
-- Testimonials and case studies
-- Community-generated content
-- Voluntary participation in events
-- Peer recommendations
-- Sustainability of community initiatives
-
----
-
-## Open Questions & Discussion
-
-> **💬 Discussion Point:** What's the best platform for community discussions - GitHub Discussions, Slack, a dedicated forum, or something else?  
-> [Share your thoughts in Issue #23](link-to-issue)
-
-> **💬 Discussion Point:** How can we best reach researchers who aren't already engaged with open science practices?  
-> [Contribute ideas in Issue #24](link-to-issue)
-
-> **💬 Discussion Point:** Should we establish discipline-specific or cross-disciplinary user groups first?  
-> [Join the discussion in Issue #25](link-to-issue)
-
----
-
-## Contributors
-
-This section has been developed with input from:
-- [List contributors or link to contributors page]
-
-**Want to contribute?** See our [contribution guidelines](CONTRIBUTING.md) or [open an issue](link-to-issues).
-
----
-
-**Related Sections:**
-- [Governance](governance.md) - How community input shapes decisions
-- [Services](services.md) - What services the community can access
-- [Sustainability](sustainability.md) - Long-term community support plans
-
----
-
-*Last reviewed: November 2025*
