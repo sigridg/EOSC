@@ -6,27 +6,26 @@ layout: default
 # Norwegian EOSC Node Design
 
 **Status:** Draft - Open for Collaboration  
-**Last Updated:** 11 November 2025  
+**Last Updated:** 12 Nov 2025  
 **License:** CC BY 4.0
 
 ## About This Document
 
 This is a collaborative space for designing Norway's node in the European Open Science Cloud (EOSC). All contributions are welcome through GitHub pull requests or issues.
 
+If you have suggestions for improvement or comments and do not have access to GitHub, please send an email to sigrid.gaseidnes@sikt.no
+
 ---
 
 ## Contents
 
-1. [Value Propositions](value.md)
+1. [What potential values can we see from a Norwegian EOSC node? ](value.md)
 3. [Services](services.md)
 4. [Community & Engagement](community.md)
 
 
 ---
 
-## Executive Summary
-
-[Brief overview of the Norwegian EOSC node vision...]
 
 ## How to Contribute
 
@@ -36,16 +35,10 @@ This is a collaborative space for designing Norway's node in the European Open S
 
 ---
 
-## Background
+## What is EOSC?
 
-### What is EOSC?
+For general information on EOSC see the pages from [The EOSC association](https://eosc.eu/)
+For information on EOSC from a Norwegian perspective see or join the Research Council pages on [EOSC Forum](https://www.forskningsradet.no/en/research-policy-strategy/open-science/eosc/)
 
-The European Open Science Cloud (EOSC) is...
-
-### Why Norway Needs an EOSC Node
-
-[Context about Norwegian research landscape, Sikt's role, etc.]
 
 ---
-
-*This document is maintained collaboratively. See our [contributors](contributors.md).*
