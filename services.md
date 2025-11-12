@@ -15,11 +15,11 @@ The following diagram illustrates how a service developed by UiO (University of 
 ```mermaid
 graph TD
     A[UiO has a service<br/>that is relevant to<br/>share] --> B[EOSC national<br/>node]
-    B --> C[NMBU receives]
+    B --> C[Norwegian University receives]
     B --> D[Swedish EOSC node]
     B --> E[Dutch EOSC node]
-    D --> F[SLU receives]
-    E --> G[Wageningen<br/>receives]
+    D --> F[Swedish University receives]
+    E --> G[Dutch University receives]
 ```
 
 ### Sharing a Service That Is Part of a Thematic Node
@@ -29,9 +29,9 @@ When a service is already part of a thematic node (like Elixir), it can be share
 graph TD
     A[UiO has a service<br/>that is relevant to<br/>share] --> B[Elixir thematic<br/>node]
     C[EOSC national<br/>node]
-    B --> D[NMBU receives]
-    B --> E[SLU receives]
-    B --> F[Wageningen<br/>receives]
+    B --> D[Norwegian University receives]
+    B --> E[Swedish University receives]
+    B --> F[Dutch University receives]
     
     style B fill:#fed,stroke:#333
 ```
@@ -39,3 +39,8 @@ graph TD
 In this scenario, the EOSC national node is not involved in the service distribution, as the thematic node (Elixir) handles the coordination directly.
 > 
 > **Discussion:** See [Issue x](link)
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true, theme: 'dark' });
+</script>
