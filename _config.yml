@@ -1,6 +1,6 @@
 title: Norwegian EOSC Node Design
 description: Collaborative design of the Norwegian EOSC node
-theme: jekyll-theme-slate  # or minima, slate, etc.
+theme: jekyll-theme-minima  # or minima, slate, etc.
 
 # Navigation
 header_pages:
