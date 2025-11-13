@@ -1,5 +1,5 @@
 ---
-title: Norwegian EOSC Node Design
+title: Norwegian EOSC Node
 layout: default
 ---
 
