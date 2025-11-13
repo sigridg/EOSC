@@ -15,12 +15,12 @@ The following diagram illustrates how a service developed by a Norwegian univers
 
 <div class="mermaid">
 graph TD
-    A[UiO has a service<br/>that is relevant to<br/>share] --> B[EOSC national<br/>node]
-    B --> C[Norwegian University receives]
-    B --> D[Swedish EOSC node]
-    B --> E[Dutch EOSC node]
-    D --> F[Swedish University receives]
-    E --> G[Dutch University receives]
+    A["UiO has a service<br/>that is relevant to<br/>share"] --> B["EOSC national<br/>node"]
+    B --> C["Norwegian University receives"]
+    B --> D["Swedish EOSC node"]
+    B --> E["Dutch EOSC node"]
+    D --> F["Swedish University receives"]
+    E --> G["Dutch University receives"]
 </div>
 
 ### Sharing a Service That Is Part of a Thematic Node
@@ -28,11 +28,10 @@ graph TD
 When a service is already part of a thematic node (like Elixir), it can be shared directly through that node:
 <div class="mermaid">
 graph TD
-    A[UiO has a service<br/>that is relevant to<br/>share] --> B[Elixir thematic<br/>node]
-    C[EOSC national<br/>node]
-    B --> D[Norwegian University receives]
-    B --> E[Swedish University receives]
-    B --> F[Dutch University receives]
+    A["UiO has a service<br/>that is relevant to<br/>share"] --> B["Elixir thematic<br/>node"]
+    B --> D["Norwegian University receives"]
+    B --> E["Swedish University receives"]
+    B --> F["Dutch University receives"]
     
     style B fill:#fed,stroke:#333
 </div>
