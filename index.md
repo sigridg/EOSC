@@ -1,6 +1,7 @@
 ---
 title: Norwegian EOSC Node
 layout: default
+nav_exclude: true
 ---
 
 # Norwegian EOSC Node Design
