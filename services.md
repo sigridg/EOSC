@@ -40,8 +40,3 @@ graph TD
 In this scenario, the EOSC national node is not involved in the service distribution, as the thematic node (Elixir) handles the coordination directly.
 > 
 > **Discussion:** See [Issue x](link)
-
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true, theme: 'dark' });
-</script>
