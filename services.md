@@ -14,7 +14,7 @@ nav_order: 3
 
 The following diagram illustrates how a service developed by a Norwegian university f.ex. UiO (University of Oslo) that is not part of a thematic node can be shared through the Norwegian EOSC node to both national and international recipients:
 
-<div class="mermaid">
+<div class="mermaid" markdown="0">
 graph TD
     A["UiO has a service that is relevant to share"] --> B["EOSC national node"]
     B --> C["Norwegian University receives"]
@@ -28,7 +28,7 @@ graph TD
 
 When a service is already part of a thematic node (like Elixir), it can be shared directly through that node:
 
-<div class="mermaid">
+<div class="mermaid" markdown="0">
 graph TD
     A["UiO has a service that is relevant to share"] --> B["Elixir thematic node"]
     B --> C["Norwegian University receives"]
