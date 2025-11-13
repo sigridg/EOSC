@@ -1,13 +1,35 @@
 title: Norwegian EOSC Node
-description: Collaborative design of the Norwegian EOSC node
-theme: jekyll-theme-minima  # or minima, slate, etc.
+description: Collaborative design of Norway's EOSC node
+remote_theme: just-the-docs/just-the-docs
 
-# Navigation
+# Customization
+color_scheme: light
+#logo: "/assets/images/logo.png"  # Optional
+
+# Enable search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+
+# Footer
+footer_content: "Licensed under CC BY 4.0 | Last updated: 2025"
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Aux links (top right corner)
+aux_links:
+  "View on GitHub": "https://github.com/sigridg/EOSC"
+  "Project Board": "https://github.com/users/sigridg/projects/6"
+
+  # Navigation
 header_pages:
   - value.md
   - technical.md
   - services.md
   #- policy.md
-  #- community.md
+  - community.md
   #- sustainability.md
-
