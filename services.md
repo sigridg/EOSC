@@ -22,6 +22,7 @@ graph TD
     D --> F["Swedish University receives"]
     E --> G["Dutch University receives"]
 </div>
+```
 
 ### Sharing a Service That Is Part of a Thematic Node
 
@@ -35,6 +36,7 @@ graph TD
     
     style B fill:#fed,stroke:#333
 </div>
+```
 
 In this scenario, the EOSC national node is not involved in the service distribution, as the thematic node (Elixir) handles the coordination directly.
 > 
