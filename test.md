@@ -4,5 +4,4 @@
 graph TD
     A --> B
 </div>
-```
 
