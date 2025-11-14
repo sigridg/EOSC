@@ -21,7 +21,8 @@ If you have suggestions for improvement or comments and do not have access to Gi
 ## Contents
 
 1. [Potential values from a Norwegian EOSC node? ](value.md)
-3. [Insight on Services](services.md)
+2. [Insight on Services](services.md)
+3. Insights from interviews (under development)
 
 
 ---
