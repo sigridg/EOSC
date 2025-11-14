@@ -1,6 +1,7 @@
 ---
 title: Added Value for a Norwegian EOSC node
 layout: default
+nav-order: 1
 ---
 
 
