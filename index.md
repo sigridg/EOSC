@@ -20,10 +20,8 @@ If you have suggestions for improvement or comments and do not have access to Gi
 
 ## Contents
 
-1. [What potential values can we see from a Norwegian EOSC node? ](value.md)
-3. [Services](services.md)
-4. [Community & Engagement](community.md)
-5. [Test](test.md)
+1. [Potential values from a Norwegian EOSC node? ](value.md)
+3. [Insight on Services](services.md)
 
 
 ---
