@@ -58,8 +58,7 @@ We're conducting interviews with key stakeholder groups, but the process is open
 
 ### Timeline
 - November-December: Interviews and input collection
-- January: Discus the findings with EOSC forum and other stakeholder groups
----
+- January: Discuss the findings with EOSC forum and other stakeholder groups
 
 **Project Lead:** Sigrid Gåseidnes, Sikt  
 **Contact Sikt:** sigrid.gaseidnes@sikt.no  
