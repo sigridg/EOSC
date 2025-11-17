@@ -57,8 +57,8 @@ We're conducting interviews with key stakeholder groups, but the process is open
 - by participating in the [Norwegian EOSC forum](https://www.forskningsradet.no/en/research-policy-strategy/open-science/eosc/)
 
 ### Timeline
-November-December: Interviews and input collection
-January: Discus the findings with EOSC forum and other stakeholder groups
+- November-December: Interviews and input collection
+- January: Discus the findings with EOSC forum and other stakeholder groups
 ---
 
 **Project Lead:** Sigrid Gåseidnes, Sikt  
