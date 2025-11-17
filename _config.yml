@@ -1,6 +1,7 @@
 title: Norwegian EOSC Node
 description: Collaborative design of Norway's EOSC node
-remote_theme: just-the-docs/just-the-docs
+remote_theme: pages-themes/slate@v0.2.0
+#remote_theme: just-the-docs/just-the-docs
 
 # Customization
 color_scheme: light
