@@ -20,7 +20,7 @@ If you have suggestions for improvement or comments and do not have access to Gi
 
 ## Contents
 
-1. [Potential values from a Norwegian EOSC node? ](value.md)
+1. [Potential values from a Norwegian EOSC node ](value.md)
 2. [Insight on Services](services.md)
 
 
@@ -28,7 +28,7 @@ If you have suggestions for improvement or comments and do not have access to Gi
 ---
 ### About This Project
 
-Over the nex months (November 2025 - January 2026), Sikt in collaboartion with the Research Council is conducting a "semisystematic" needs assessment to understand what a Norwegian EOSC node should deliver to actually serve Norwegian researchers and institutions.
+Over the next months (November 2025 - January 2026), Sikt in collaboration with the Research Council is conducting a "semisystematic" need assessment to understand better what a Norwegian EOSC node should deliver to actually serve Norwegian researchers and institutions.
 
 
 ### What We're Exploring
@@ -48,7 +48,7 @@ The main findings are documented openly at this webpage and will be continously 
 What we develop must benefit Norwegian researchers regardless of the general development of EOSC. The need for better data sharing and collaboration tools exists independently.
 
 **Broad Participation**  
-We welcome input from anyone in the research community. You don't need to know what "EOSC" means to contribute – we want to hear about your actual challenges and needs. And what possibilities you see in this field
+We welcome input from anyone in the research community. You don't need to know what "EOSC" means to contribute – we want to hear about your actual challenges and needs. And what possibilities you see from your point of view.
 
 **Semi-Structured Involvement**  
 We're conducting interviews with key stakeholder groups, but the process is open for anyone to engage through:
