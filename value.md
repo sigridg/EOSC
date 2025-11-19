@@ -57,7 +57,9 @@ A Norwegian EOSC node shall make it easier for Norwegian and foreign researchers
 ### Make It Easier and More Cost-Effective to Operate Diamond Open Access Publishing Channels (out of scope?)
 A Norwegian EOSC node shall make it easier and more cost-effective to operate Norwegian diamond journals. This includes technical services for publishing, for "the process around it", for approval/quality assurance, channel registry.
 
-This includes implementing the European - Diamond Open Access Standard.
+> Implementing the European - Diamond Open Access Standard?
+> 
+> Coordination around Open Research Europe (ORE)? The research Council started to support ORE in 2025, from 2026 all researchers funded by the Research Council will have the oportunity to publish their research on this platform at no cost.
 
 **NB:** An impact of increased publication in Diamond journals is that research publications become more accessible to municipalities, counties, and the government. These do not have a mandate to support Subscribe to Open models and cannot afford to purchase access.
 
